@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//cryptonube.github.io/expense-tracker/static/css/main.60753730.chunk.css",
+    "main.js": "//cryptonube.github.io/expense-tracker/static/js/main.4b1248c9.chunk.js",
+    "main.js.map": "//cryptonube.github.io/expense-tracker/static/js/main.4b1248c9.chunk.js.map",
+    "runtime-main.js": "//cryptonube.github.io/expense-tracker/static/js/runtime-main.5be357e6.js",
+    "runtime-main.js.map": "//cryptonube.github.io/expense-tracker/static/js/runtime-main.5be357e6.js.map",
+    "static/js/2.5c540ff3.chunk.js": "//cryptonube.github.io/expense-tracker/static/js/2.5c540ff3.chunk.js",
+    "static/js/2.5c540ff3.chunk.js.map": "//cryptonube.github.io/expense-tracker/static/js/2.5c540ff3.chunk.js.map",
+    "index.html": "//cryptonube.github.io/expense-tracker/index.html",
+    "static/css/main.60753730.chunk.css.map": "//cryptonube.github.io/expense-tracker/static/css/main.60753730.chunk.css.map",
+    "static/js/2.5c540ff3.chunk.js.LICENSE.txt": "//cryptonube.github.io/expense-tracker/static/js/2.5c540ff3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5be357e6.js",
+    "static/js/2.5c540ff3.chunk.js",
+    "static/css/main.60753730.chunk.css",
+    "static/js/main.4b1248c9.chunk.js"
+  ]
+}

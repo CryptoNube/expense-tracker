@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAGA,cACI,YACJ,CAEA,gCACI,aACJ","file":"main.60753730.chunk.css","sourcesContent":[".entry-item {\r\n}\r\n\r\n.close-button {\r\n    display: none;\r\n}\r\n\r\n.entry-item:hover .close-button {\r\n    display: block;\r\n}\r\n\r\n"]}
